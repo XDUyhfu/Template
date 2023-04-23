@@ -1,0 +1,8 @@
+build
+*.test.(j|t)sx?
+build_*/
+output*/
+coverage/
+dist/
+lib/
+es/
