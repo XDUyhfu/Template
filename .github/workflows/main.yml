@@ -1,1 +1,4 @@
 name: deploy-website
+on: 
+  push:
+    branches: [main]
